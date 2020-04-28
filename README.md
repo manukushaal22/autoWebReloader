@@ -1,4 +1,4 @@
-# autoWebReloader
+# AutoWebReloader
 
 Application Setup
 1. Clone the project
